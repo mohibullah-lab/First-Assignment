@@ -35,10 +35,6 @@ p {
 }
 
 
-
-
-
-
 .small {
     padding: 30px;
     margin: 30px;
@@ -131,13 +127,36 @@ h2 {
     text-align: center;
 }
 
-#box-1 {
+.flex-box-1 {
     width: 200px;
     height: 80px;
-    margin-right: auto;
-    float: left;
+    display: inline;
     background-color: aliceblue;
-    padding: 20px 25px 308px;
+    padding: 20px 25px 325px;
+    margin: 20px;
+    float: left;
+
+}
+
+.flex-box-2 {
+    width: 200px;
+    height: 80px;
+    display: inline;
+    background-color: cornsilk;
+    padding: 20px 25px 334px;
+    margin: 20px;
+    float: left;
+
+}
+
+.flex-box-3 {
+    width: 200px;
+    height: 80px;
+    display: inline;
+    background-color: bisque;
+    padding: 20px 25px 330px;
+    margin: 20px;
+    float: left;
 
 }
 
@@ -149,39 +168,7 @@ h2 {
     font-size: 25px;
 }
 
-#box-2 {
-    width: 200px;
-    height: 80px;
-    margin-right: 20px;
-    float: left;
-    background-color: bisque;
-    padding: 20px 25px 323px;
-}
 
 .mother {
     font-size: 25px;
-}
-
-#box-3 {
-    width: 200px;
-    height: 80px;
-    margin-right: 20px;
-    float: right;
-    background-color: cornsilk;
-    padding: 20px 25px 327px;
-}
-
-.the-first {
-    width: 2%;
-
-}
-
-.the-second {
-    width: 2%;
-
-}
-
-.the-third {
-    width: 2%;
-
 }
