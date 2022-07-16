@@ -1,0 +1,187 @@
+h1 {
+    font-size: 55px;
+    text-align: center;
+    color: white;
+    padding: 85px;
+
+}
+
+
+p {
+    font-size: 25px;
+    text-align: center;
+    color: white;
+
+}
+
+.top-banner {
+    background-image: url(donate-today-main/images/donation13.jpg);
+    background-size: cover;
+    height: 80vh;
+    background-repeat: no-repeat;
+    text-align: center;
+
+
+}
+
+.button {
+    text-decoration: none;
+    font-size: 27px;
+    color: white;
+    background-color: red;
+    padding: 8px 12px;
+    border-radius: 4px;
+
+}
+
+
+
+
+
+
+.small {
+    padding: 30px;
+    margin: 30px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 55px;
+}
+
+.second-class {
+    text-align: center;
+    color: black;
+}
+
+.me {
+    font-size: 25px;
+    font-variant: var(12px);
+    text-transform: uppercase;
+    padding: 34px 24px;
+}
+
+.she {
+    font-size: 25px;
+    font-variant: var(12px);
+    text-transform: uppercase;
+    padding: 34px 24px;
+}
+
+.they {
+    font-size: 25px;
+    font-variant: var(12px);
+    text-transform: uppercase;
+    padding: 34px 24px;
+}
+
+.he {
+    font-size: 25px;
+    font-variant: var(12px);
+    text-transform: uppercase;
+    padding: 34px 24px;
+}
+
+.you {
+    font-size: 25px;
+    font-variant: var(12px);
+    text-transform: uppercase;
+    padding: 34px 24px;
+}
+
+.the-upper {
+    text-align: center;
+
+}
+
+.the-other {
+    text-align: center;
+
+}
+
+.the-unknown {
+    text-decoration: none;
+    font-size: 25px;
+    color: gray;
+    padding: 5px 10px;
+}
+
+.you-me {
+    text-align: center;
+    text-decoration: none;
+    font-size: 27px;
+    background-color: crimson;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 4px;
+}
+
+.forhead {
+    padding: 15px 20px;
+}
+
+.the-big {
+    font-size: 55px;
+    text-align: center;
+}
+
+.underground {
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
+
+#box-1 {
+    width: 200px;
+    height: 80px;
+    margin-right: auto;
+    float: left;
+    background-color: aliceblue;
+    padding: 20px 25px 308px;
+
+}
+
+.family {
+    font-size: 25px;
+}
+
+.father {
+    font-size: 25px;
+}
+
+#box-2 {
+    width: 200px;
+    height: 80px;
+    margin-right: 20px;
+    float: left;
+    background-color: bisque;
+    padding: 20px 25px 323px;
+}
+
+.mother {
+    font-size: 25px;
+}
+
+#box-3 {
+    width: 200px;
+    height: 80px;
+    margin-right: 20px;
+    float: right;
+    background-color: cornsilk;
+    padding: 20px 25px 327px;
+}
+
+.the-first {
+    width: 2%;
+
+}
+
+.the-second {
+    width: 2%;
+
+}
+
+.the-third {
+    width: 2%;
+
+}
